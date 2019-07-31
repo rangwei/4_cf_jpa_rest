@@ -1,0 +1,7 @@
+---
+applications:
+# Application
+- name: gs-accessing-data-rest
+  instances: 1
+  memory: 1024M
+  path: target/gs-accessing-data-rest-0.1.0.jar
